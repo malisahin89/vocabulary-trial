@@ -3,6 +3,7 @@
 
 VocabularyTrial, sosyal medya sayfaları için hazırlanmış bir quiz uygulamasıdır. Bu uygulama, kullanıcıların kelime bilgilerini test etmelerine ve geliştirmelerine olanak tanır.
 Projeyi laravel sisteme entegre edeceğimden php kullandım birkaç işlemle js ile çalışır hale getirilebilir.
+Çalışan proje linki: https://bilisimarsivi.com/sozluk/vocabularytrial
 
 ## Özellikler
 
@@ -28,9 +29,9 @@ Projeyi laravel sisteme entegre edeceğimden php kullandım birkaç işlemle js 
 
 ## Katkıda Bulunma
 
-Frontend bilgim sıfıra yakın olduğu için;
-Tasarımı bu projeden kopyaladım https://github.com/kemalgundogdu/quizApp-bil5
-Readme.md dosyasını da AI ile hazırladım.
+- Frontend bilgim sıfıra yakın olduğu için;
+- Tasarımı bu projeden kopyaladım https://github.com/kemalgundogdu/quizApp-bil5
+- Readme.md dosyasını da AI ile hazırladım.
 
 ## Lisans
 
@@ -38,7 +39,7 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` d
 
 ## İletişim
 
-Herhangi bir sorunuz veya geri bildiriminiz için lütfen [malisahin89](https://github.com/malisahin89) ile iletişime geçin.
-https://www.youtube.com/@vocabularytrial
-https://www.tiktok.com/@vocabularytrial
-https://www.instagram.com/vocabularytrial
+- Herhangi bir sorunuz veya geri bildiriminiz için lütfen [malisahin89](https://github.com/malisahin89) ile iletişime geçin.
+- https://www.youtube.com/@vocabularytrial
+- https://www.tiktok.com/@vocabularytrial
+- https://www.instagram.com/vocabularytrial
