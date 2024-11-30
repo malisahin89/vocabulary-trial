@@ -1,0 +1,353 @@
+[
+    {
+        "id": 683,
+        "wordcount": 4,
+        "first": "I▢▢▢",
+        "random": "▢▢e▢",
+        "english": "Item",
+        "turkish": "Öge",
+        "pronunciation": "Aytım"
+    },
+    {
+        "id": 1185,
+        "wordcount": 8,
+        "first": "P▢▢▢▢▢▢▢",
+        "random": "▢▢▢s▢▢▢▢",
+        "english": "Password",
+        "turkish": "Parola",
+        "pronunciation": "Pessvord"
+    },
+    {
+        "id": 535,
+        "wordcount": 4,
+        "first": "F▢▢▢",
+        "random": "F▢▢▢",
+        "english": "Flaw",
+        "turkish": "Kusur",
+        "pronunciation": "Flov"
+    },
+    {
+        "id": 1054,
+        "wordcount": 4,
+        "first": "N▢▢▢",
+        "random": "N▢▢▢",
+        "english": "Nice",
+        "turkish": "İyi",
+        "pronunciation": "Nays"
+    },
+    {
+        "id": 1819,
+        "wordcount": 4,
+        "first": "T▢▢▢",
+        "random": "T▢▢▢",
+        "english": "Tone",
+        "turkish": "Ton",
+        "pronunciation": "Ton"
+    },
+    {
+        "id": 306,
+        "wordcount": 7,
+        "first": "C▢▢▢▢▢▢",
+        "random": "▢▢b▢▢▢▢",
+        "english": "Cabbage",
+        "turkish": "Lahana",
+        "pronunciation": "Kebıç"
+    },
+    {
+        "id": 127,
+        "wordcount": 11,
+        "first": "A▢▢▢▢▢▢▢▢▢▢",
+        "random": "▢▢▢▢i▢▢▢▢▢▢",
+        "english": "Appointment",
+        "turkish": "Randevu, Atama, Tayin",
+        "pronunciation": "Epoyntmınt"
+    },
+    {
+        "id": 549,
+        "wordcount": 5,
+        "first": "F▢▢▢▢",
+        "random": "F▢▢▢▢",
+        "english": "Frame",
+        "turkish": "Çerçeve",
+        "pronunciation": "Fıreym"
+    },
+    {
+        "id": 1666,
+        "wordcount": 4,
+        "first": "S▢▢▢",
+        "random": "▢i▢▢",
+        "english": "Sing",
+        "turkish": "Şarkı Söylemek",
+        "pronunciation": "Sing"
+    },
+    {
+        "id": 550,
+        "wordcount": 4,
+        "first": "F▢▢▢",
+        "random": "▢▢▢e",
+        "english": "Free",
+        "turkish": "Özgür",
+        "pronunciation": "Fırii"
+    },
+    {
+        "id": 1893,
+        "wordcount": 4,
+        "first": "V▢▢▢",
+        "random": "V▢▢▢",
+        "english": "Vase",
+        "turkish": "Vazo",
+        "pronunciation": "Veys"
+    },
+    {
+        "id": 919,
+        "wordcount": 5,
+        "first": "M▢▢▢▢",
+        "random": "▢▢r▢▢",
+        "english": "Mercy",
+        "turkish": "Merhamet",
+        "pronunciation": "Mörsi"
+    },
+    {
+        "id": 585,
+        "wordcount": 4,
+        "first": "G▢▢▢",
+        "random": "▢▢▢d",
+        "english": "Gold",
+        "turkish": "Altın",
+        "pronunciation": "Gold"
+    },
+    {
+        "id": 1999,
+        "wordcount": 4,
+        "first": "W▢▢▢",
+        "random": "▢o▢▢",
+        "english": "Work",
+        "turkish": "İş",
+        "pronunciation": "Vörk"
+    },
+    {
+        "id": 353,
+        "wordcount": 6,
+        "first": "C▢▢▢▢▢",
+        "random": "▢▢▢▢▢y",
+        "english": "Cloudy",
+        "turkish": "Bulutlu",
+        "pronunciation": "Klaudi"
+    },
+    {
+        "id": 1611,
+        "wordcount": 4,
+        "first": "S▢▢▢",
+        "random": "▢▢v▢",
+        "english": "Save",
+        "turkish": "Kurtarmak",
+        "pronunciation": "Seyv"
+    },
+    {
+        "id": 891,
+        "wordcount": 4,
+        "first": "M▢▢▢",
+        "random": "▢e▢▢",
+        "english": "Mean",
+        "turkish": "Anlamına gelmek",
+        "pronunciation": "Miin"
+    },
+    {
+        "id": 866,
+        "wordcount": 6,
+        "first": "M▢▢▢▢▢",
+        "random": "▢▢▢g▢▢",
+        "english": "Margin",
+        "turkish": "Marj, Katkı",
+        "pronunciation": "Marjin"
+    },
+    {
+        "id": 1781,
+        "wordcount": 7,
+        "first": "T▢▢▢▢▢▢",
+        "random": "▢▢a▢▢▢▢",
+        "english": "Teacher",
+        "turkish": "Öğretmen",
+        "pronunciation": "Tiçır"
+    },
+    {
+        "id": 1730,
+        "wordcount": 5,
+        "first": "S▢▢▢▢",
+        "random": "▢▢i▢▢",
+        "english": "Stick",
+        "turkish": "Yapışmak",
+        "pronunciation": "Sıtik"
+    },
+    {
+        "id": 1288,
+        "wordcount": 6,
+        "first": "P▢▢▢▢▢",
+        "random": "▢o▢▢▢▢",
+        "english": "Pocket",
+        "turkish": "Cep",
+        "pronunciation": "Pakıt"
+    },
+    {
+        "id": 1898,
+        "wordcount": 4,
+        "first": "V▢▢▢",
+        "random": "V▢▢▢",
+        "english": "Verb",
+        "turkish": "Fi̇i̇l",
+        "pronunciation": "Vörb"
+    },
+    {
+        "id": 1037,
+        "wordcount": 6,
+        "first": "N▢▢▢▢▢",
+        "random": "N▢▢▢▢▢",
+        "english": "Needle",
+        "turkish": "İğne, Şi̇ş",
+        "pronunciation": "Niidıl"
+    },
+    {
+        "id": 1323,
+        "wordcount": 7,
+        "first": "P▢▢▢▢▢▢",
+        "random": "▢▢▢▢r▢▢",
+        "english": "Poverty",
+        "turkish": "Faki̇rli̇k",
+        "pronunciation": "Pıroverti"
+    },
+    {
+        "id": 147,
+        "wordcount": 3,
+        "first": "A▢▢",
+        "random": "A▢▢",
+        "english": "Art",
+        "turkish": "Sanat",
+        "pronunciation": "Art"
+    },
+    {
+        "id": 725,
+        "wordcount": 9,
+        "first": "K▢▢▢▢▢▢▢▢",
+        "random": "▢▢▢▢l▢▢▢▢",
+        "english": "Knowledge",
+        "turkish": "Bi̇lgi̇",
+        "pronunciation": "Novlıç"
+    },
+    {
+        "id": 1547,
+        "wordcount": 4,
+        "first": "R▢▢▢",
+        "random": "▢e▢▢",
+        "english": "Rest",
+        "turkish": "Dinlenmek",
+        "pronunciation": "Rest"
+    },
+    {
+        "id": 1500,
+        "wordcount": 6,
+        "first": "R▢▢▢▢▢",
+        "random": "▢▢j▢▢▢",
+        "english": "Reject",
+        "turkish": "Kabul Etmemek",
+        "pronunciation": "Rijeckt"
+    },
+    {
+        "id": 529,
+        "wordcount": 5,
+        "first": "F▢▢▢▢",
+        "random": "F▢▢▢▢",
+        "english": "First",
+        "turkish": "Birinci",
+        "pronunciation": "Först"
+    },
+    {
+        "id": 1000,
+        "wordcount": 3,
+        "first": "M▢▢",
+        "random": "▢▢g",
+        "english": "Mug",
+        "turkish": "Kupa",
+        "pronunciation": "Mag"
+    },
+    {
+        "id": 129,
+        "wordcount": 8,
+        "first": "A▢▢▢▢▢▢▢",
+        "random": "▢▢▢r▢▢▢▢",
+        "english": "Approach",
+        "turkish": "Yanaşmak, Yaklaşım",
+        "pronunciation": "Eprooç"
+    },
+    {
+        "id": 1537,
+        "wordcount": 6,
+        "first": "R▢▢▢▢▢",
+        "random": "R▢▢▢▢▢",
+        "english": "Resent",
+        "turkish": "Hoşlanmamak, Kızmak",
+        "pronunciation": "Risent"
+    },
+    {
+        "id": 123,
+        "wordcount": 5,
+        "first": "A▢▢▢▢",
+        "random": "▢p▢▢▢",
+        "english": "Apple",
+        "turkish": "Elma",
+        "pronunciation": "Epıl"
+    },
+    {
+        "id": 1926,
+        "wordcount": 6,
+        "first": "V▢▢▢▢▢",
+        "random": "▢o▢▢▢▢",
+        "english": "Volume",
+        "turkish": "Haci̇m",
+        "pronunciation": "Volyum"
+    },
+    {
+        "id": 386,
+        "wordcount": 3,
+        "first": "C▢▢",
+        "random": "▢▢y",
+        "english": "Cry",
+        "turkish": "Ağlamak",
+        "pronunciation": "Kıray"
+    },
+    {
+        "id": 1017,
+        "wordcount": 4,
+        "first": "N▢▢▢",
+        "random": "▢▢▢l",
+        "english": "Nail",
+        "turkish": "Tırnak/ Çi̇vi̇",
+        "pronunciation": "Neyl"
+    },
+    {
+        "id": 559,
+        "wordcount": 4,
+        "first": "F▢▢▢",
+        "random": "F▢▢▢",
+        "english": "Full",
+        "turkish": "Dolu",
+        "pronunciation": "Ful"
+    },
+    {
+        "id": 1398,
+        "wordcount": 7,
+        "first": "P▢▢▢▢▢▢",
+        "random": "▢▢▢v▢▢▢",
+        "english": "Provoke",
+        "turkish": "Kışkırtmak, Kızdırmaya Neden Olmak",
+        "pronunciation": "Pırovok"
+    },
+    {
+        "id": 206,
+        "wordcount": 3,
+        "first": "B▢▢",
+        "random": "▢▢r",
+        "english": "Bar",
+        "turkish": "Bar",
+        "pronunciation": "BarBar"
+    }
+]
