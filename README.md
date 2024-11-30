@@ -30,7 +30,7 @@ Projeyi laravel sisteme entegre edeceğimden php kullandım birkaç işlemle js 
 ## Katkıda Bulunma
 
 - Frontend bilgim sıfıra yakın olduğu için;
-- Tasarımı bu projeden kopyaladım https://github.com/kemalgundogdu/quizApp-bil5
+- Tasarımın Tailwind kısmının büyük çoğunluğunu bu projeden kopyaladım https://github.com/kemalgundogdu/quizApp-bil5
 - Readme.md dosyasını da AI ile hazırladım.
 
 ## Lisans
